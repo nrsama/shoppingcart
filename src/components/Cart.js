@@ -10,7 +10,7 @@ function Cart(props) {
   const cartItemsTotal = cartItems.reduce(
     (total, item) => total + item.price,
     0
-  );
+  )
 
   return (
     <div className="cart">
