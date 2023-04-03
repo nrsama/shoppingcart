@@ -1,6 +1,7 @@
 // Cart.js
 
 import React from 'react';
+import { Reducer } from 'react';
 
 function Cart(props) {
   const { cartItems } = props;
