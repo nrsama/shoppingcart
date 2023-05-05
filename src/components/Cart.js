@@ -30,7 +30,7 @@ function Cart(props) {
         </>
       )}
     </div>
-  );
+  )
 }
 
 export default Cart;
