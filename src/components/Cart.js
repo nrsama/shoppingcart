@@ -4,7 +4,7 @@ import React from 'react';
 import { Reducer } from 'react';
 
 function Cart(props) {
-  console.log('abxd');
+  console.log('abxded');
   const { cartItems } = props;
 
   const cartItemsCount = cartItems.length;
